@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "verified_at_utc": "2026-10-07T20:16:02.184619+00:00",
+  "project": "deep-learning-experiments",
+  "completion_scope": "verified implementation or finished document; not a production certification",
+  "checks": [
+    {
+      "name": "Fifteen NumPy/PyTorch checks: complete finite-difference/autograd gradients, independent optimizers, checkpoint/mutation boundaries and residual networks",
+      "passed": true
+    },
+    {
+      "name": "Six TensorFlow checks: recurrent padding/save-reload and input boundaries, independent L2 gradients, dropout inference behavior",
+      "passed": true
+    },
+    {
+      "name": "Fresh complete numeric, dense regularization, official-IMDB subset and official-CIFAR subset training; every selected checkpoint reloaded before test evaluation",
+      "passed": true
+    },
+    {
+      "name": "All code cells in five notebooks executed in their matching environments; both saved image models accepted a real local official-test image",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Curated finished implementation scope; unavailable historical transfer-learning/landscape/pet datasets and forecasting draft not reproduced.",
+    "One-seed row/subset measurements; no clinical, full-benchmark, production or hardware certification. Weak RNN and unimproved residual/normalization results preserved.",
+    "Raw data, images, model binaries and credentials remain local. Shared reference and assisted source variants retain attribution."
+  ]
+}

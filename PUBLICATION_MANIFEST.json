@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-08",
+  "title": "Explicit normalization and neural architecture experiments",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "3e6d84a5945b5fece54ecfd17bc3eefafa975c43a01fc96f2e55ff62bc26ae3a",
+      "bytes": 108
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "9af4ceeaaf8e770cba611d24029a48c3e45bd72e2a99ed5a829e950d4117377f",
+      "bytes": 1139
+    },
+    {
+      "path": "dense_regularization.ipynb",
+      "sha256": "63b87ad711e543916723a13c56c76c7e550a13c156223f419524f29280c6472a",
+      "bytes": 1784
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "594d6e9f172fd63c4301cc46257c496a70235de159a7d718d58803b7837aa83f",
+      "bytes": 114569
+    },
+    {
+      "path": "normalization_and_tabular.ipynb",
+      "sha256": "03568f3101930755ee307c6109400a688faeed59bd747c851d85a92d65eb318c",
+      "bytes": 1929
+    },
+    {
+      "path": "numeric_experiment.py",
+      "sha256": "f67b94a10a3e8f30de8115e17209a75af96864853d9192c0be06c45c588414ab",
+      "bytes": 6233
+    },
+    {
+      "path": "numpy_layers.py",
+      "sha256": "f0b0aae74883c4c9e731b911dad7809826b0e2243dd1e3cad8aa623bfb5aaef1",
+      "bytes": 8301
+    },
+    {
+      "path": "plain_and_residual_images.ipynb",
+      "sha256": "456335fafb963c650f811355ce23c09c307c80ac40771b016916e2fe9ae2c8cc",
+      "bytes": 1821
+    },
+    {
+      "path": "README.md",
+      "sha256": "5a973718ca2fc790c00993b5a5986947a11ba87e3886b1ac298d3092a2d3676f",
+      "bytes": 6565
+    },
+    {
+      "path": "recurrent_sentiment.ipynb",
+      "sha256": "5c2a3a60011c02a1566cf13a9d76df9d2215be22f110b36677351f0dfa88109c",
+      "bytes": 1764
+    },
+    {
+      "path": "regularization_experiment.py",
+      "sha256": "867a972f2c41ba5324c30a02c205c57abe7ac0383d9658790331411df8684cd3",
+      "bytes": 3795
+    },
+    {
+      "path": "regularization_models.py",
+      "sha256": "d6a93cd6bd8a0ba54d16788996a02c1c268c0f03ac5b2cb1c16da203719200e2",
+      "bytes": 1937
+    },
+    {
+      "path": "requirements-tensorflow.txt",
+      "sha256": "bbbe8303e6fe1d67f6d6b9c494e5f67e0cff5e99e0030ee81f42851bfdf7058e",
+      "bytes": 85
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "166e55ca203336bccfc011942de3f1afc6dad0eda2f2ea7279ef6a23f76a2723",
+      "bytes": 101
+    },
+    {
+      "path": "scalar_optimizer_comparison.ipynb",
+      "sha256": "da13ca4e27856cb9ffbeacc86f9b5f1dff1a239bf430f58ba53516399c406366",
+      "bytes": 1799
+    },
+    {
+      "path": "sequence_experiment.py",
+      "sha256": "dedc5c998cd8f4893344a9c99722b0e0da7f732041e1e5651a9ed198edb59391",
+      "bytes": 5337
+    },
+    {
+      "path": "test_numpy_layers.py",
+      "sha256": "3dff2f1096046a48eb9005c036a8dafa1879a90671c68d49bd002a89ae970754",
+      "bytes": 6306
+    },
+    {
+      "path": "test_regularization.py",
+      "sha256": "360228efe7bafecd5498901512d73cdfadcb2dadd17f568f3f26a78f3313696d",
+      "bytes": 1355
+    },
+    {
+      "path": "test_sequence.py",
+      "sha256": "7f87809a5185491922b3e1c630f9b30ea9411bca8366ace1052836bdb81aee45",
+      "bytes": 1153
+    },
+    {
+      "path": "test_vision.py",
+      "sha256": "d3564c42dbdaecb03672e6bc085950238088391b99beb9d91eadb617a40831b1",
+      "bytes": 1610
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "9b2f1dabdfd63eddd513d12d00e35f1b88e28f9fc5b0aa8664a81ca7ce23ab91",
+      "bytes": 1541
+    },
+    {
+      "path": "vision_experiment.py",
+      "sha256": "927f1dc78da4e4d2a8f3fe73679d9a77cc0e27602dd0decedc4f6f5eca55b2d0",
+      "bytes": 7291
+    },
+    {
+      "path": "vision_models.py",
+      "sha256": "f0d5b5aad60c6e33cfabf08bf50391adad58ba4bef1b8e6aca4f98eadebf0acb",
+      "bytes": 2131
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Attribution
+
+Initial forward/backpropagation, batch/layer normalization, scalar optimizer, regularization, recurrent and plain/residual convolution layouts came from locally retained filled and supplied reference notebooks, with some assisted source variants. Shared reference material is not claimed as solely authored work. Assisted completion repairs normalization-aware backpropagation and input guards, isolates validation/testing, adds saved-model inference and independent mathematical checks, and replaces fragile notebook-only runtime setup with portable commands. Established algorithms are not original research.
+
+MNIST, IMDB, CIFAR-10, the retained combined heart table and the bundled breast-cell benchmark retain their original authors' rights. CIFAR-10 is by Alex Krizhevsky, Vinod Nair and Geoffrey Hinton: https://www.cs.toronto.edu/~kriz/cifar.html . TensorFlow/Keras provides the standard IMDB integer-token benchmark: https://keras.io/api/datasets/imdb/ . No raw data, image, model binary or plot is redistributed. The local combined heart table's exact transformation/provenance is not independently certified.
